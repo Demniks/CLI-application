@@ -2,7 +2,9 @@
 
 Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
-node index.js --action="list"![2023-06-05 (2)](https://github.com/Demniks/CLI-application/assets/112686414/bff5d4ba-ad8a-4fef-a6ec-c4b272db4818)
+node index.js --action="list"
+![list](https://github.com/Demniks/CLI-application/assets/112686414/31900f86-191d-4067-ab69-8d0dd6b8a4e0)
+
 
 
 Отримуємо контакт по id
